@@ -1,0 +1,4 @@
+src/main/scala/*.swp
+src/main/resources/*.swp
+project/
+target/
